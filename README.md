@@ -4,12 +4,14 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/ignite-code/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/ignite-code/LeetCode/tree/master/0134-gas-station) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ignite-code/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ignite-code/LeetCode/tree/master/0125-valid-palindrome) |
