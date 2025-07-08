@@ -14,5 +14,20 @@ class Solution {
             }
         }
         return max;
+
+        // int i=0,j=height.length-1;
+        // int maxWater = 0;
+        // while(j-i!=0){
+        //     int max=Math.min(height[i],height[j]*(j-i));
+        //     if(height[i]<height[j]){
+        //         i++;
+        //     }else{
+        //         j--;
+        //     } 
+        //     if(max>maxWater){
+        //         maxWater=max;
+        //     }  
+        // }
+        // return maxWater;
     }
 }
