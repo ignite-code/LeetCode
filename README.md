@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ignite-code/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/ignite-code/LeetCode/tree/master/0134-gas-station) |
@@ -16,6 +17,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ignite-code/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
