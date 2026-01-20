@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ignite-code/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ignite-code/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ignite-code/LeetCode/tree/master/0134-gas-station) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ignite-code/LeetCode/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/ignite-code/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ignite-code/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
