@@ -13,6 +13,7 @@
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/ignite-code/LeetCode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 ## Greedy
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ignite-code/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -81,4 +83,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
