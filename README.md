@@ -33,6 +33,7 @@
 | [0001-two-sum](https://github.com/ignite-code/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ignite-code/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
@@ -49,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/ignite-code/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ignite-code/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ignite-code/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ignite-code/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ignite-code/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
