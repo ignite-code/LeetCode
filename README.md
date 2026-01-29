@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
 | ------- |
@@ -38,12 +39,14 @@
 | [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ignite-code/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ignite-code/LeetCode/tree/master/0290-word-pattern) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/ignite-code/LeetCode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -129,4 +132,12 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
