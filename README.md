@@ -20,6 +20,7 @@
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/ignite-code/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/ignite-code/LeetCode/tree/master/0238-product-of-array-except-self) |
 ## Design
 |  |
 | ------- |
