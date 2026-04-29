@@ -1,47 +1,34 @@
 class Solution {
     public String convert(String s, int numRows) {
-        
+
         if (numRows == 1 || s.length() <= numRows) {
             return s;
         }
 
-        int n = s.length();
+        StringBuilder[] rows = new StringBuilder[numRows];
 
-        int cycle = 2 * numRows - 2;
-        int cols = (n / cycle + 1) * (numRows - 1);
+        for (int i = 0; i < numRows; i++) {
+            rows[i] = new StringBuilder();
+        }
 
-        char[][] matrix = new char[numRows][cols];
+        int currentRow = 0;
+        boolean goingDown = false;
 
-        int row = 0, col = 0;
-        int index = 0;
+        for (char ch : s.toCharArray()) {
 
-        while (index < n) {
+            rows[currentRow].append(ch);
 
-            while (row < numRows && index < n) {
-                matrix[row][col] = s.charAt(index++);
-                row++;
+            if (currentRow == 0 || currentRow == numRows - 1) {
+                goingDown = !goingDown;
             }
 
-            row = numRows - 2;
-            col++;
-
-            while (row > 0 && index < n) {
-                matrix[row][col] = s.charAt(index++);
-                row--;
-                col++;
-            }
-
-            row = 0;
+            currentRow += goingDown ? 1 : -1;
         }
 
         StringBuilder result = new StringBuilder();
 
-        for (int i = 0; i < numRows; i++) {
-            for (int j = 0; j < cols; j++) {
-                if (matrix[i][j] != '\0') {
-                    result.append(matrix[i][j]);
-                }
-            }
+        for (StringBuilder row : rows) {
+            result.append(row);
         }
 
         return result.toString();
