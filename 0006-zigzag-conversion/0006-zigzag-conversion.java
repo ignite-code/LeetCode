@@ -1,32 +1,49 @@
 class Solution {
     public String convert(String s, int numRows) {
-        if (s.length() <= 2 || numRows == 1) {
+        
+        if (numRows == 1 || s.length() <= numRows) {
             return s;
         }
-        int j = 0;
 
-        int step = numRows * 2 - 2;
-        String arr[] = new String[numRows];
-        Arrays.fill(arr, "");
+        int n = s.length();
 
-        for (int i = 0; i < numRows; i++) {
-            j = i; // 1
-            while (j < s.length()) {
+        int cycle = 2 * numRows - 2;
+        int cols = (n / cycle + 1) * (numRows - 1);
 
-                // System.out.println(s.charAt(j));
-                arr[i] += String.valueOf(s.charAt(j));
-                if (i != 0 && i != numRows - 1 && j + step - i < s.length()) {
-                    // System.out.println(s.charAt(j + step - i));
-                    arr[i] += String.valueOf(s.charAt(j + step - i));
-                }
-                j = j + step + i;
+        char[][] matrix = new char[numRows][cols];
+
+        int row = 0, col = 0;
+        int index = 0;
+
+        while (index < n) {
+
+            while (row < numRows && index < n) {
+                matrix[row][col] = s.charAt(index++);
+                row++;
             }
-            step--;
+
+            row = numRows - 2;
+            col++;
+
+            while (row > 0 && index < n) {
+                matrix[row][col] = s.charAt(index++);
+                row--;
+                col++;
+            }
+
+            row = 0;
         }
 
-        return Arrays.stream(arr).collect(Collectors.joining());
+        StringBuilder result = new StringBuilder();
+
+        for (int i = 0; i < numRows; i++) {
+            for (int j = 0; j < cols; j++) {
+                if (matrix[i][j] != '\0') {
+                    result.append(matrix[i][j]);
+                }
+            }
+        }
+
+        return result.toString();
     }
 }
-
-
-
