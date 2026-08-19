@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ignite-code/LeetCode/tree/master/0274-h-index) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
