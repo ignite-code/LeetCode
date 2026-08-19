@@ -1,17 +1,15 @@
+import java.util.*;
+
 class Solution {
     public int removeDuplicates(int[] nums) {
-        
-        int k=1;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i] == nums[i+1]){
-                continue;
-            }
-            else{
-                
-                nums[k] = nums[i+1];
-                k++;
-            }
+        List<Integer> l = Arrays.stream(nums)
+                           .boxed()
+                           .collect(Collectors.toList());;
+        List<Integer> set = l.stream().distinct().collect(Collectors.toList());
+        for(int i=0; i<set.size(); i++){
+            nums[i] = set.get(i);
         }
-        return k;
+        return set.size();
+        
     }
 }
