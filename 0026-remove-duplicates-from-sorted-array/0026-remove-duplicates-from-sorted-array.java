@@ -4,12 +4,13 @@ class Solution {
     public int removeDuplicates(int[] nums) {
         List<Integer> l = Arrays.stream(nums)
                            .boxed()
+                           .distinct()
                            .collect(Collectors.toList());;
-        List<Integer> set = l.stream().distinct().collect(Collectors.toList());
-        for(int i=0; i<set.size(); i++){
-            nums[i] = set.get(i);
+        
+        for(int i=0; i<l.size(); i++){
+            nums[i] = l.get(i);
         }
-        return set.size();
+        return l.size();
         
     }
 }
