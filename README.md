@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/ignite-code/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ignite-code/LeetCode/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
 |  |
@@ -91,6 +92,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ignite-code/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/ignite-code/LeetCode/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -119,6 +121,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -168,4 +171,13 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
