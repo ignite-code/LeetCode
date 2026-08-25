@@ -23,6 +23,7 @@
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ignite-code/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ignite-code/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Greedy
@@ -43,6 +44,7 @@
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ignite-code/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/ignite-code/LeetCode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/ignite-code/LeetCode/tree/master/0383-ransom-note) |
@@ -51,6 +53,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
@@ -115,6 +118,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ignite-code/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +126,7 @@
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ignite-code/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ignite-code/LeetCode/tree/master/0274-h-index) |
 ## Divide and Conquer
 |  |
@@ -159,4 +164,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
