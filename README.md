@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/ignite-code/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ignite-code/LeetCode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/ignite-code/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ignite-code/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ignite-code/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ignite-code/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ignite-code/LeetCode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ignite-code/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -198,6 +200,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ignite-code/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
