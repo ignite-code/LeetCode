@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/ignite-code/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/ignite-code/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ignite-code/LeetCode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ignite-code/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ignite-code/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -188,4 +189,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ignite-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
