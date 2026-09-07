@@ -1,20 +1,21 @@
 import java.util.*;
 class Solution {
     public int firstMissingPositive(int[] nums) {
-        List<Integer> list = Arrays.stream(nums).boxed().sorted().distinct().collect(Collectors.toList());
+        
+        for(int i=0;i<nums.length;i++){
+            while(nums[i]>0 && nums[i]<=nums.length&& nums[i] != nums[nums[i]-1]){
+                int index = nums[i]-1;
 
-        int n = 1;
-        for(int i=0;i<list.size();i++){
-            if(list.get(i) > 0){
-                if(n == list.get(i)){
-                    n++;
-                    continue;
-                }
-                else{
-                    break;
-                }
+                int temp = nums[i];
+                nums[i] = nums[index];
+                nums[index] = temp;
             }
         }
-        return n;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i] != i+1){
+                return i+1;
+            }
+        }
+        return nums.length + 1;
     }
 }
