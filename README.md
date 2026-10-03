@@ -51,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/ignite-code/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ignite-code/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ignite-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ignite-code/LeetCode/tree/master/0217-contains-duplicate) |
@@ -102,6 +103,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ignite-code/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ignite-code/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ignite-code/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ignite-code/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ignite-code/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
@@ -194,6 +196,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/ignite-code/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Union-Find
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ignite-code/LeetCode/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
