@@ -51,6 +51,7 @@
 | [0041-first-missing-positive](https://github.com/ignite-code/LeetCode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/ignite-code/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ignite-code/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/ignite-code/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ignite-code/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ignite-code/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -217,6 +218,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/ignite-code/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ignite-code/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/ignite-code/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
