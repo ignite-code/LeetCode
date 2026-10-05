@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ignite-code/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/ignite-code/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ignite-code/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ignite-code/LeetCode/tree/master/0189-rotate-array) |
@@ -214,10 +215,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ignite-code/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ignite-code/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ignite-code/LeetCode/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ignite-code/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ignite-code/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
